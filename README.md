@@ -1,14 +1,20 @@
 # Ashwani Kumar Singh — Finance & Research Portfolio
 
-> Equity Research • Financial Analysis • Quantitative Trading • FinTech
+<p align="center">
+  <a href="https://ashwani-portfolio-omega.vercel.app/">
+    <img src="./docs/portfolio-banner.svg" alt="Ashwani Kumar Singh Finance and Equity Research Portfolio" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ashwani-portfolio-omega.vercel.app/"><strong>🌐 Live Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Ashwani219"><strong>GitHub Profile</strong></a>
+</p>
+
+> **Equity Research • Financial Analysis • Quantitative Trading • FinTech**
 
 A personal portfolio built with **Next.js + TypeScript** to showcase equity research, valuation work, quantitative strategy research, financial-market analysis, and technology projects.
-
-## 🌐 Portfolio
-
-**Live Portfolio:** https://ashwani-portfolio-omega.vercel.app/
-
-**Repository:** https://github.com/Ashwani219/Ashwani-Portfolio
 
 ## 📊 What You'll Find Here
 
@@ -60,6 +66,7 @@ app/            # Next.js application routes and pages
 components/     # Reusable UI and research components
 data/           # Portfolio / research data
 public/         # Images, charts, and static assets
+docs/           # Repository documentation and visual assets
 ```
 
 ## ✨ Key Portfolio Sections
@@ -100,6 +107,7 @@ The research, analysis, examples, charts, and opinions presented in this project
 - [x] Valuation / DCF interface
 - [x] Trading strategy research interface
 - [x] Live production deployment
+- [x] GitHub project presentation
 - [ ] Additional equity research reports
 - [ ] Additional certificates and research projects
 
