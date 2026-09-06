@@ -6,9 +6,9 @@ A personal portfolio built with **Next.js + TypeScript** to showcase equity rese
 
 ## 🌐 Portfolio
 
-**Repository:** https://github.com/Ashwani219/Ashwani-Portfolio
+**Live Portfolio:** https://ashwani-portfolio-omega.vercel.app/
 
-> Live deployment link will be added after the portfolio is deployed.
+**Repository:** https://github.com/Ashwani219/Ashwani-Portfolio
 
 ## 📊 What You'll Find Here
 
@@ -99,7 +99,7 @@ The research, analysis, examples, charts, and opinions presented in this project
 - [x] Interactive research sections
 - [x] Valuation / DCF interface
 - [x] Trading strategy research interface
-- [ ] Live production deployment
+- [x] Live production deployment
 - [ ] Additional equity research reports
 - [ ] Additional certificates and research projects
 
