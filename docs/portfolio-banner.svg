@@ -1,0 +1,38 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#020306"/>
+    <stop offset="100%" stop-color="#071018"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00c7e9"/>
+    <stop offset="100%" stop-color="#36e2ff"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" fill="url(#bg)"/>
+<g opacity="0.14" stroke="#5ee8ff" stroke-width="1">
+  <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/>
+  <path d="M100 0V420M220 0V420M340 0V420M460 0V420M580 0V420M700 0V420M820 0V420M940 0V420M1060 0V420"/>
+</g>
+<path d="M35 300 C120 265, 150 312, 220 250 S340 210, 405 275 S520 330, 595 230 S720 160, 790 235 S920 300, 980 190 S1080 165, 1165 95" fill="none" stroke="url(#cyan)" stroke-width="4" opacity="0.72" filter="url(#glow)"/>
+<g opacity="0.35" stroke="#2a8eaa" stroke-width="2">
+  <path d="M35 340L35 260M52 340L52 290M69 340L69 275M86 340L86 305M103 340L103 250M120 340L120 295"/>
+</g>
+<rect x="56" y="48" width="240" height="32" rx="16" fill="#06131a" stroke="#0a91ab"/>
+<circle cx="76" cy="64" r="5" fill="#00d7ef"/>
+<text x="91" y="70" fill="#b9d7df" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">EQUITY RESEARCH • FINANCE</text>
+<text x="56" y="150" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="1">ASHWANI KUMAR SINGH</text>
+<text x="58" y="196" fill="url(#cyan)" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="2">FINANCIAL ANALYST × EQUITY RESEARCH</text>
+<text x="58" y="244" fill="#c7d2dc" font-family="Arial, Helvetica, sans-serif" font-size="17">Interactive portfolio covering research, valuation, market analysis,</text>
+<text x="58" y="270" fill="#c7d2dc" font-family="Arial, Helvetica, sans-serif" font-size="17">quantitative strategy research and modern financial technology.</text>
+<g transform="translate(58 314)">
+  <rect width="165" height="48" rx="8" fill="#071a22" stroke="#00c7e9"/>
+  <text x="25" y="30" fill="#7eefff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">EQUITY RESEARCH</text>
+  <rect x="181" width="140" height="48" rx="8" fill="#091018" stroke="#20303a"/>
+  <text x="209" y="30" fill="#b5c4cf" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">VALUATION / DCF</text>
+  <rect x="337" width="164" height="48" rx="8" fill="#091018" stroke="#20303a"/>
+  <text x="361" y="30" fill="#b5c4cf" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">QUANT RESEARCH</text>
+</g>
+<text x="1070" y="380" fill="#62808a" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">ASHWANI219</text>
+</svg>
