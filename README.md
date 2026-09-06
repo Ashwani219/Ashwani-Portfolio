@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ashwani Kumar Singh — Finance & Research Portfolio
 
-## Getting Started
+> Equity Research • Financial Analysis • Quantitative Trading • FinTech
 
-First, run the development server:
+A personal portfolio built with **Next.js + TypeScript** to showcase equity research, valuation work, quantitative strategy research, financial-market analysis, and technology projects.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🌐 Portfolio
+
+**Repository:** https://github.com/Ashwani219/Ashwani-Portfolio
+
+> Live deployment link will be added after the portfolio is deployed.
+
+## 📊 What You'll Find Here
+
+### Equity Research
+- Company and business analysis
+- Financial statement review
+- Valuation and DCF analysis
+- Peer comparison
+- Technical analysis
+- Investment thesis presentation
+
+### Quantitative & Trading Research
+- Strategy research and experimentation
+- Backtesting workflows
+- Performance analysis
+- Equity and drawdown curves
+- Trading signal visualization
+
+### Interactive Research Tools
+- Financial charts
+- Interactive DCF model
+- Research terminal interface
+- Strategy lab
+- Research workflow / process views
+
+## 🔎 Featured Research
+
+### Zaggle Equity Research
+An interactive equity-research experience covering company fundamentals, valuation, peer analysis, technical analysis, and investment thesis development.
+
+### SATS Dynamic Swing Backtester
+A research-oriented Python backtesting project focused on systematic trading strategy evaluation and performance analysis.
+
+## 🛠️ Technology Stack
+
+**Frontend**  
+Next.js • React • TypeScript • Tailwind CSS
+
+**Research & Analytics**  
+Python • Financial Analysis • Quantitative Research • Data Visualization
+
+**Development**  
+Git • GitHub • VS Code
+
+## 📁 Project Structure
+
+```text
+app/            # Next.js application routes and pages
+components/     # Reusable UI and research components
+data/           # Portfolio / research data
+public/         # Images, charts, and static assets
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Key Portfolio Sections
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Market Snapshot
+- Featured Equity Research
+- Quantitative Strategy Lab
+- Institutional Research Process
+- About / Skills / Certifications
+- Resume Viewer
+- Contact Section
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Purpose
 
-## Learn More
+This portfolio is designed to combine **finance and technology** into a practical research workspace — demonstrating how financial analysis, valuation, quantitative methods, and modern web development can work together.
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Run Locally
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm install
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Then open:
 
-## Deploy on Vercel
+```text
+http://localhost:3000
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚠️ Disclaimer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The research, analysis, examples, charts, and opinions presented in this project are for **educational and informational purposes only** and should not be considered investment advice or a recommendation to buy or sell any security.
+
+## 📌 Roadmap
+
+- [x] Portfolio website
+- [x] Interactive research sections
+- [x] Valuation / DCF interface
+- [x] Trading strategy research interface
+- [ ] Live production deployment
+- [ ] Additional equity research reports
+- [ ] Additional certificates and research projects
+
+## 👋 About
+
+**Ashwani Kumar Singh**
+
+Finance & Technology enthusiast focused on equity research, financial markets, quantitative trading research, and FinTech.
+
+---
+
+⭐ Built to present research and projects in a clear, analytical, and professional format.
